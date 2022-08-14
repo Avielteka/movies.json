@@ -1,0 +1,38 @@
+{
+    "movies":[
+        {
+            "id":1,
+            "name":"rush hour",
+            "actor":"jecky chan",
+            "year":2018,
+            "issubited":true,
+            "tags":["chris tacker","hey yo","me you"
+            ]
+
+        },
+        {
+            "id":2,
+            "name":"karate-kid",
+            "actor":"jayden smith",
+            "year":"2010",
+            "issubited":true,
+            "tags":["karate","jecky chan","kid"]
+        },
+        {
+            "id":3,
+            "name":"roki 3",
+            "actor":"silvester",
+            "year":"2000",
+            "issubited":true,
+            "tags":["silvester","staln","dog"]
+        },
+        {
+            "id":4,
+            "name":"lit kid",
+            "actor":"kevin smith",
+            "year":"2010",
+            "issubited":true,
+            "tags":["baby","sd","kid"]
+        }
+    ]
+}
